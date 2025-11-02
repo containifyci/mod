@@ -3,11 +3,11 @@ package main
 import (
 	"os"
 
-	"github.com/marwan-at-work/mod/replace"
+	"github.com/containifyci/mod/replace"
 	"github.com/urfave/cli/v2"
 
-	"github.com/marwan-at-work/mod/major"
-	"github.com/marwan-at-work/mod/migrate"
+	"github.com/containifyci/mod/major"
+	"github.com/containifyci/mod/migrate"
 )
 
 func main() {

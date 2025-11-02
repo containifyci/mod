@@ -15,7 +15,7 @@ import (
 	"golang.org/x/tools/go/ast/astutil"
 	"golang.org/x/tools/go/packages"
 
-	"github.com/marwan-at-work/mod"
+	"github.com/containifyci/mod"
 )
 
 // Run upgrades or downgrades a module path and

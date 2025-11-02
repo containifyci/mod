@@ -12,9 +12,9 @@ var upDownCases = []struct {
 }{
 	{
 		"non major",
-		"github.com/marwan-at-work/mod",
-		"github.com/marwan-at-work/mod/v2",
-		"github.com/marwan-at-work/mod",
+		"github.com/containifyci/mod",
+		"github.com/containifyci/mod/v2",
+		"github.com/containifyci/mod",
 	},
 	{
 		"major",

@@ -1,4 +1,4 @@
-module github.com/marwan-at-work/mod
+module github.com/containifyci/mod
 
 go 1.24.0
 

@@ -1,1 +1,1 @@
-module github.com/marwan-at-work/mod/example
+module github.com/containifyci/mod/example

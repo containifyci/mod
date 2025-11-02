@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/marwan-at-work/mod"
+	"github.com/containifyci/mod"
 	"github.com/pkg/errors"
 	"golang.org/x/mod/modfile"
 	"golang.org/x/tools/go/ast/astutil"
