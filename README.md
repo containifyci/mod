@@ -13,7 +13,7 @@ this tool can solve the problem for you with one command as well. Introduce a go
 
 ## Install
 
-`go install github.com/marwan-at-work/mod/cmd/mod@latest`
+`go install github.com/containifyci/mod/cmd/mod@main`
 
 ## Usage
 
@@ -117,4 +117,4 @@ If you are using iTerm2 and see this error:
 <html><head></head><body><p><em>Error:</em> Your request has found no candidate provider [hs="(null)", id="(null)"]</p></body</html>
 ```
 
-Make sure you close iTerm2 and start again. See https://github.com/marwan-at-work/mod/issues/3 for details. 
+Make sure you close iTerm2 and start again. See https://github.com/marwan-at-work/mod/issues/3 for details.

@@ -20,8 +20,8 @@ import (
 	"golang.org/x/mod/semver"
 	"golang.org/x/oauth2"
 
-	"github.com/marwan-at-work/mod"
-	"github.com/marwan-at-work/mod/major"
+	"github.com/containifyci/mod"
+	"github.com/containifyci/mod/major"
 )
 
 // Run looks into the CWD go.mod file,
